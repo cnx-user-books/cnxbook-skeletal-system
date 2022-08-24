@@ -1,104 +1,29 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Donna Browne">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11779</md:content-id>
-  <md:title>Skeletal System</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>3605e45d-0b40-4475-b657-3c168715db9c</md:uuid>
-<md:slug>skeletal-system</md:slug>
-</metadata>
-
+    <md:content-id>col11779</md:content-id>
+    <md:title>Skeletal System</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>3605e45d-0b40-4475-b657-3c168715db9c</md:uuid>
+    <md:slug>skeletal-system</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m47933"/>
-        
-      
-    
-    
-      <col:module document="m47976"/>
-        
-      
-    
-    
-      <col:module document="m47977"/>
-        
-      
-    
-    
-      <col:module document="m47981"/>
-        
-      
-    
-    
-      <col:module document="m47982"/>
-        
-      
-    
-    
-      <col:module document="m47986"/>
-        
-      
-    
-    
-      <col:module document="m48001"/>
-        
-      
-    
-    
-      <col:module document="m48000"/>
-        
-      
-    
-    
-      <col:module document="m47999"/>
-        
-      
-    
-    
-      <col:module document="m47998"/>
-        
-      
-    
-    
-      <col:module document="m47995"/>
-        
-      
-    
-    
-      <col:module document="m47994"/>
-        
-      
-    
-    
-      <col:module document="m47993"/>
-        
-      
-    
-    
-      <col:module document="m47992"/>
-        
-      
-    
-    
-      <col:module document="m47991"/>
-        
-      
-    
-    
-      <col:module document="m47990"/>
-        
-      
-    
+    <col:module document="m47933"/>
+    <col:module document="m47976"/>
+    <col:module document="m47977"/>
+    <col:module document="m47981"/>
+    <col:module document="m47982"/>
+    <col:module document="m47986"/>
+    <col:module document="m48001"/>
+    <col:module document="m48000"/>
+    <col:module document="m47999"/>
+    <col:module document="m47998"/>
+    <col:module document="m47995"/>
+    <col:module document="m47994"/>
+    <col:module document="m47993"/>
+    <col:module document="m47992"/>
+    <col:module document="m47991"/>
+    <col:module document="m47990"/>
   </col:content>
 </col:collection>
